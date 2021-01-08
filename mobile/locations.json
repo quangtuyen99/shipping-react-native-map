@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Đại học ngân hàng",
+        "address": "56 Hoàng Diệu 2, Linh Chiểu, Thủ Đức, Thành phố Hồ Chí Minh",
+        "coords": {
+            "latitude": 10.858780,
+            "longitude": 106.763258
+        },
+        "image_url": "https://cdnmedia.baotintuc.vn/2018/06/12/11/18/DSC07741.JPG"
+
+    },
+    {
+        "name": "Đại học sư phạm kỹ thuật",
+        "address": "Linh Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+        "coords": {
+            "latitude": 10.850245,
+            "longitude": 106.771650
+        },
+        "image_url": "https://thptquocgia.edu.vn/uploads/news/2020_09/h-spkt-tphcm-2020-1.jpg"
+    }
+
+
+]
